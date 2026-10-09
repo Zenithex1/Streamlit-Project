@@ -1,0 +1,13 @@
+Job Title: Python Backend Developer at BrightWave Technologies. BrightWave Technologies is a software company based in Kathmandu, Nepal, building cloud-based tools for small businesses. The company was founded in 2018 and has a team of about 60 people.
+
+Responsibilities: The Python Backend Developer will design and build REST APIs, write clean and tested code, maintain PostgreSQL databases, and work closely with frontend developers and product managers. The developer will also review code from teammates and help fix production bugs.
+
+Required Skills: Candidates must have at least 2 years of experience with Python, and good knowledge of Django or FastAPI. Experience with SQL databases, Git, and Docker is required. Basic understanding of cloud platforms such as AWS is a plus.
+
+Salary and Benefits: The monthly salary ranges from NPR 80,000 to NPR 120,000 depending on experience. Benefits include health insurance, a yearly bonus, paid leave of 18 days per year, and a learning budget of NPR 30,000 per year for courses and certifications.
+
+Work Location and Hours: The position is hybrid. Employees work from the Kathmandu office three days a week and from home two days a week. Office hours are 9:30 AM to 5:30 PM, Sunday to Friday, with Saturday as the weekly off day.
+
+Application Process: Interested candidates should send their CV and a short cover letter to careers@brightwave.example by 30 November 2026. The hiring process has three stages: a resume screening, a technical interview with a coding task, and a final HR interview. Selected candidates will be notified within two weeks.
+
+Company Culture: BrightWave values open communication, continuous learning, and work-life balance. The company organizes monthly team lunches, quarterly hackathons, and an annual team trip.
